@@ -1,22 +1,28 @@
-<!-- Animated Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FFEA&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Ebunoluwa+Shokefun;Cybersecurity+%7C+Software+Development;Tech+is+my+canvas,+security+my+focus" alt="Typing SVG" />
-</h1>
+<!-- 💻 Animated Terminal Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=800&color=00FFEA&center=true&vCenter=true&width=500&lines=Initializing+Security+Protocols...;Loading+Ebunoluwa+Shokefun...;Access+Granted+✅;Welcome+to+my+GitHub+👨🏽‍💻" alt="typing animation"/>
+</p>
+
+<h1 align="center">👋 Hi, I'm <span style="color:#00FFEA;">Ebunoluwa Shokefun</span></h1>
+
+<p align="center">
+🎓 Computer Science Student @ Southwest Minnesota State University <br>
+🛡️ Aspiring Cybersecurity Analyst & Software Developer <br>
+📍 Marshall, MN
+</p>
 
 ---
 
-### 🧠 About Me  
-💻 **Computer Science Student @ Southwest Minnesota State University**  
-🛡️ **Aspiring Cybersecurity Analyst & Software Developer**  
-📍 Marshall, MN  
-
-🚀 Passionate about **ethical hacking**, **network defense**, and **building secure systems**.  
-Currently strengthening skills in **Kali Linux**, **Wireshark**, **Python**, and **VirtualBox labs**.  
-Exploring **data-driven solutions**, **automation**, and **system security** every day.  
+### 🧠 About Me
+- Passionate about **cybersecurity, software engineering, and data-driven innovation**  
+- Experienced in **IT support, networking, and system administration**  
+- Hands-on with **Kali Linux**, **Wireshark**, **VirtualBox**, and **HackTheBox**  
+- Building projects in **Python**, **C++**, and **SQL**  
+- Dedicated to **securing systems** and **helping others stay cyber-safe**
 
 ---
 
-### ⚙️ Tech Arsenal  
+### ⚙️ Tech Arsenal
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,linux,windows,git,github,mysql,vscode,bash" />
   <br>
@@ -27,20 +33,20 @@ Exploring **data-driven solutions**, **automation**, and **system security** eve
 
 ---
 
-### 🧩 Featured Projects  
+### 🧩 Featured Projects
 
 🔐 **[Cybersecurity Labs & Penetration Testing](#)**  
-> Built and configured **VirtualBox** environments using **Kali Linux** and **Labtainer**.  
-> Applied **Nmap**, **Wireshark**, and **HackTheBox** for vulnerability analysis and defense testing.  
-> Gained hands-on experience in **ethical hacking** and **network forensics**.  
+> Configured **VirtualBox** with **Kali Linux** & **Labtainer** for guided security labs.  
+> Used **Wireshark**, **Nmap**, and **HackTheBox** to analyze vulnerabilities.  
+> Developed strong foundations in **ethical hacking** and **network forensics**.
 
 📦 **[LendWise – Inventory Management System](#)**  
-> Developed a **Python + SQL (PySide6)** full-stack desktop app for managing asset checkouts, returns, and reports.  
-> Focused on **OOP**, **database design**, and **UI performance**.
+> Built a **Python (PySide6)** & **SQL** desktop app to manage asset checkouts, returns, and reports.  
+> Implemented **OOP principles**, **database schema design**, and **UI optimization**.
 
 ---
 
-### 📊 GitHub Highlights  
+### 📊 GitHub Highlights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ebun-25&show_icons=true&theme=radical&hide_border=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ebun-25&theme=radical&hide_border=true" height="165" />
@@ -52,9 +58,9 @@ Exploring **data-driven solutions**, **automation**, and **system security** eve
 
 ---
 
-### 🌐 Connect With Me  
+### 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/ebunoluwa-shokefun-523320244/" target="_blank">
+  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ebunabdul25@gmail.com">
@@ -67,9 +73,5 @@ Exploring **data-driven solutions**, **automation**, and **system security** eve
 
 ---
 
-### ✨ Quote I Live By  
+### ✨ Quote I Live By
 > “Securing systems, solving problems, and coding with purpose.”
-
-<p align="center">
-  <img src="https://github.com/Ebun-25/Ebun-25/blob/main/assets/terminal.gif" width="600"/>
-</p>
